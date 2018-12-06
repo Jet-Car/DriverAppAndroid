@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "348851977600",
+    "firebase_url": "https://jetcar-app.firebaseio.com",
+    "project_id": "jetcar-app",
+    "storage_bucket": "jetcar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348851977600:android:d78168048067df41",
+        "android_client_info": {
+          "package_name": "com.jet.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348851977600-c0krbljqs28qjeafvfg2o8f2drbaa8vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8iHjvQC3Zn5XhkdJpaAB0dfdTvIj7HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348851977600:android:fa703ac5afccb794",
+        "android_client_info": {
+          "package_name": "com.jet.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348851977600-c0krbljqs28qjeafvfg2o8f2drbaa8vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8iHjvQC3Zn5XhkdJpaAB0dfdTvIj7HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
